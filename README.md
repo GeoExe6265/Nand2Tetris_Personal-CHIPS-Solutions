@@ -1,4 +1,4 @@
-# English
+# English 🇬🇧
 ## This repository was made for Nand2Tetris solutions.
 ### The folder contains:
 - CHIP solutions for every basic and non-basic(complicated) components.
@@ -7,7 +7,7 @@
 ### Used languages:
 - HDL (Hardware Description Language)
 
-# Русский
+# Русский 🇷🇺
 ## Этот репозиторий был создан для решений Nand2Tetris
 ### Папка содержит:
 - Решения ЧИПОВ для каждого обычного или необычного(сложного) компонента.
