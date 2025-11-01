@@ -24,4 +24,5 @@ CHIP Nand16 {
 	Nand(a=a[13],b=b[13],out=out[13]);
 	Nand(a=a[14],b=b[14],out=out[14]);
 	Nand(a=a[15],b=b[15],out=out[15]);
+
 }
